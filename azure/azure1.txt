@@ -1,2 +1,1 @@
-dev2 changes in machine 2
-welcome to devops
+dev1 changes in machine 1
